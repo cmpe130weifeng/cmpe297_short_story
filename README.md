@@ -4,7 +4,8 @@ Article link: https://medium.com/@weifengma2010/trust-aware-in-recommender-syste
 </br>
 
 
-
+</br>
+Persentation PPT: https://github.com/cmpe130weifeng/cmpe297_short_story/blob/main/persentation.pdf </br>
 
 </br>
 </br>
