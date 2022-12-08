@@ -15,6 +15,6 @@ Raizada, M. (2022). Survey on Recommender Systems Incorporating Trust. 2022 Inte
 </br>
 </br>
 Image Reference:  </br>
-[1] Trust artiche: crop from the same article https://doi.org/10.1109/icaaic53929.2022.9792731 </br>
+[1] Trust architecture: directly cropped from the article https://doi.org/10.1109/icaaic53929.2022.9792731 </br>
 [2] Matrix factorization in PPT: https://medium.com/@connectwithghosh/simple-matrix-factorization-example-on-the-movielens-dataset-using-pyspark-9b7e3f567536
 </br>
