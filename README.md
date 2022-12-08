@@ -13,3 +13,7 @@ Persentation PPT: https://github.com/cmpe130weifeng/cmpe297_short_story/blob/mai
 Reference: </br>
 Raizada, M. (2022). Survey on Recommender Systems Incorporating Trust. 2022 International Conference on Applied Artificial Intelligence and Computing (ICAAIC). https://doi.org/10.1109/icaaic53929.2022.9792731 </br>
 </br>
+Image Reference: 
+[1] Trust artiche: crop from the same article https://doi.org/10.1109/icaaic53929.2022.9792731 </br>
+[2] Matrix factorization in PPT: https://medium.com/@connectwithghosh/simple-matrix-factorization-example-on-the-movielens-dataset-using-pyspark-9b7e3f567536
+</br>
